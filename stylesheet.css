@@ -3,6 +3,11 @@ h1 {
     font-family:'Courier New', Courier, monospace;
     text-align: center;
 }
+h2 {
+    color: lightpink;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
 body {
     min-width: 500px;
     min-height: 1500px;
