@@ -1,0 +1,10 @@
+{
+  "name": "Simplify Me",
+  "description": "A simpler way to understand webpages!",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "home.html",
+    "default_icon": "simplifyme.png"
+  }
+}
