@@ -1,6 +1,10 @@
 h1 {
-    color: pink;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
 }
 body {
     min-width: 500px;
+    min-height: 1500px;
+    color:black;
 }
